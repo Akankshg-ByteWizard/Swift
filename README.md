@@ -17,6 +17,7 @@ Feel free to explore, contribute, and use these materials as you learn and grow 
    git clone https://github.com/yourusername/swift.git
    
 2. Navigate to the directory:
+   ```bash
    cd swift
    
-3. Check out the different folders and files to start learning!
+4. Check out the different folders and files to start learning!
